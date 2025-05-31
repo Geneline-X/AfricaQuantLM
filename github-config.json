@@ -1,0 +1,20 @@
+{
+  "repositoryUrl": "https://github.com/Geneline-X/AfricaQuantLM.git",
+  "branch": "main",
+  "description": "AfricaQuantLM - Offline AI Assistant for Sierra Leone",
+  "lastPush": "",
+  "contributors": [],
+  "deploymentInfo": {
+    "type": "static-site",
+    "hosting": "github-pages",
+    "domain": "Geneline-X.github.io/AfricaQuantLM"
+  },
+  "setupInstructions": [
+    "git init",
+    "git add .",
+    "git commit -m 'Initial commit'",
+    "git branch -M main",
+    "git remote add origin https://github.com/Geneline-X/AfricaQuantLM.git",
+    "git push -u origin main"
+  ]
+}
